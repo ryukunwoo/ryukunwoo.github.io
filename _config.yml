@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "블로그"
+title: "류건우의 블로그"
 email: gwjason0108@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A responsive sidebar Jekyll theme using the Pure.css framework, 
   designed for writers and bloggers of all kinds.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://purelog.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
-repository: brennanbrown/purelog
+repository: ryukunwoo/purelog
 twitter:
 github: ryukunwoo
 
@@ -37,7 +37,7 @@ disqus: purelog-jekyll
 
 author: 류건우
 author_bio: >-
-  테스트용 블로그입니다.
+  공부용 블로그입니다.
 author_pic: https://brennanbrown.ca/img/avatar.png
 paginate: 4
 paginate_path: "/:num/"
